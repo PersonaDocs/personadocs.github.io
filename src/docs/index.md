@@ -4,7 +4,7 @@ WIP
 
 ## How to Contribute
 If you want to contribute to the project, follow this simple guide.
- 1. Create a fork of the repo.
+ 1. Create a fork of the [repo](https://github.com/PersonaDocs/personadocs.github.io).
  2. Add/Edit files from the `/src/docs/` directory.
  
     2a. If you've edited something, skip to step 3.
