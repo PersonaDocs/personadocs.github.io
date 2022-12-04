@@ -1,0 +1,21 @@
+site_name: Persona 3 Portable Modding Docs
+site_url: https://personadocs.github.io/p3p
+theme:
+  name: material
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: purple
+      accent: pink
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
