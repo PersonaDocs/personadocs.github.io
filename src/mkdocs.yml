@@ -1,0 +1,53 @@
+site_name: Persona Modding Guides
+site_dir: ../site
+theme:
+  name: material
+  palette: 
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: red
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: red
+      accent: pink
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+nav:
+    - Home: 'index.md'
+    - 'Persona 3 FES':
+        - 'Beginner Guides':
+            - WIP: '404.md'
+        - 'Intermediate Guides':
+            - WIP: '404.md'
+        - 'Advanced Guides': 
+            - WIP: '404.md'
+    - 'Persona 3 Portable':
+        - 'Beginner Guides':
+            - WIP: '404.md'
+        - 'Intermediate Guides':
+            - WIP: '404.md'
+        - 'Advanced Guides': 
+            - WIP: '404.md'
+    - 'Persona 4 Golden':
+        - 'Beginner Guides':
+            - WIP: '404.md'
+        - 'Intermediate Guides':
+            - WIP: '404.md'
+        - 'Advanced Guides': 
+            - WIP: '404.md'
+    - 'Persona 5 Royal':
+        - 'Beginner Guides':
+            - Texture Editing: 'p5r/texture-edit.md'
+        - 'Intermediate Guides':
+            - Flowscript Editing: 'p5r/flow-edit.md'
+        - 'Advanced Guides': 
+            - Creating Executable Code Mods: 'p5r/exe-edit.md'
+    - Credits: 'credits.md' 
