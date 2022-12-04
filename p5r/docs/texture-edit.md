@@ -71,4 +71,5 @@ you can use [this GFDStudio build](https://github.com/DeathChaos25/GFD-Studio/re
 You select a directory containing .GMDs and a directory containing textures and it'll automatically replace those textures in all models.
 ## Credits
 Creator: DniweTamp
+
 Adapted by: Shujynx
