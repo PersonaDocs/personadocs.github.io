@@ -4,7 +4,7 @@ To view the documentation for the other games, go back to the [Index](https://pe
 
 ## Writers
 
-* Shujynx - [Links](https://shujynx.github.io/links)
+* Shujynx
 
 ## Sources
 
