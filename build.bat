@@ -1,3 +1,4 @@
+@echo off
 pip install mkdocs-material
 cd p3f
 mkdocs build --clean
