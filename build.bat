@@ -1,13 +1,13 @@
 pip install mkdocs-material
 cd p3f
-mkdocs build
+mkdocs build --clean
 cd ..
 cd p3p
-mkdocs build
+mkdocs build --clean
 cd ..
 cd p4g
-mkdocs build
+mkdocs build --clean
 cd ..
 cd p5r
-mkdocs build
+mkdocs build --clean
 cd ..
