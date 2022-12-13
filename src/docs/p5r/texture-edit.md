@@ -39,10 +39,13 @@ Right click on the texture's name and choose export. **NOT EXPORT AS YAML, JUST 
 
 Now what you want to do is load this dds inside of an image editing software.
 
-[Photoshop](https://www.adobe.com/products/photoshop.html) works by using either [Intel's](http://gametechdev.github.io/Intel-Texture-Works-Plugin/) or [NVIDIA's](https://developer.nvidia.com/designworks/texture-tools-for-photoshop/secure/2021.2.0/NVIDIA_Texture_Tools_for_Adobe_Photoshop_2021.2.0.exe) Texture Works plugins,
+[Photoshop](https://www.adobe.com/products/photoshop.html) works by using [NVIDIA's](https://developer.nvidia.com/designworks/texture-tools-for-photoshop/secure/2021.2.0/NVIDIA_Texture_Tools_for_Adobe_Photoshop_2021.2.0.exe) Texture Works plugin,
 or you can use [GIMP](https://www.gimp.org/).
 
 After having made your edits, save the image as .png **WITH TRANSPARENCY ENABLED.**
+
+![Example Export Settings for GIMP (Courtesy of DniweTamp)](https://cdn.discordapp.com/attachments/875017002828308510/1050550993970024528/image.png)
+
 After that, using [NVTT](https://developer.nvidia.com/designworks/texture-tools-for-photoshop/secure/2021.2.0/NVIDIA_Texture_Tools_2021.2.0.exe) (Nvidia Texture Tools) you can convert your png to BC7 DDS.
 Use these settings:
 
